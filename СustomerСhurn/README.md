@@ -1,7 +1,7 @@
 # Прогнозирование оттока клиентов телеком компании
 
-Jupyter Notebook - [ipynb](https://github.com/tupperq/Portfolio/blob/main/%D0%A1ustomer%D0%A1hurn/CustomerChurn.ipynb)
-
+| __Jupyter Notebook__  - [ipynb](https://github.com/tupperq/Portfolio/blob/main/%D0%A1ustomer%D0%A1hurn/CustomerChurn.ipynb) |
+=
 ## Цель проекта
 
 Целью проекта является получить наиболее подходящую по результатам и затратам ресурсов модель для предсказаний оттока клиентов для телекоммуникационной компании на основе контрактов и личных данных клиентов.
